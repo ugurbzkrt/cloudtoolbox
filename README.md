@@ -28,9 +28,6 @@ Cloud Toolbox is an innovative Visual Studio Code extension designed to enable d
 2. Select a region from the dropdown to filter resources for that area.
 3. Navigate through different services to manage your resources.
 
-## Special Thanks
- - [Ezgi Akdag](https://www.linkedin.com/in/ezgi-akdag-3564ab15/) @amazon.com
- - Yusuf Ulaş Yıldız
 
 ## Documentation & Resources
 
@@ -53,6 +50,4 @@ Cloud Toolbox is distributed under the MIT License. See the `LICENSE` file for m
 ## Acknowledgments
 
 - Thanks to the open-source community for their continuous support and inspiration.
-
----
 
